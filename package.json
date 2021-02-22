@@ -4,8 +4,8 @@
   "description": "This is a website for the fictional campsites review site Nucamp.",
   "main": "index.js",
   "scripts": {
-      "lite": "lite-server",
-      "start": "npm run lite",
+    "lite": "lite-server",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chad Munsey",
@@ -17,5 +17,13 @@
     "bootstrap": "^4.5.2",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChadMunsey/newcampsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ChadMunsey/newcampsite/issues"
+  },
+  "homepage": "https://github.com/ChadMunsey/newcampsite#readme"
 }
